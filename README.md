@@ -1,10 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Mark Daniel L. Dulap! 👋
 
-**Cod3-a11y/Cod3-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Location">
+  <img src="https://shields.io" alt="Pronouns">
+</p>
 
-- 🔭 I’m currently attending school at Basilan State College, as a first year BSIT student, hoping to graduate despite the harships
-- 🌱 I’m currently learning Java, but want to learn more about the different coding languages used nowadays
-- 🤔 I’m looking for help with learning mostly, Java is easy but i need more experience when it comes to other languages.
-- 📫 How to reach me: I usually dont reach out but you can message me if you wanna talk!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have AuDHD so please be gentle with me, im just an inexperienced IT student
+---
+
+### 💫 About Me
+I am a **BSIT student at Basilan State College**, pushing through the hardships and learning to navigate the digital world one bug at a time. 
+
+- ⚡ **Currently learning:** Java (and exploring other backend languages!)
+- 🔍 **Looking for:** Help with advanced programming concepts and expanding my language stack.
+- 🧠 **Fun Fact:** I have AuDHD, so expect random bursts of extreme coding hyper-focus followed by periods of absolute radio silence. Please be gentle, I'm trying my best out here!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://vercel.app" alt="Mark's GitHub Stats" width="400" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+* 💬 If you want to talk about tech, anime, or gaming, hit me up! I don't usually reach out first, but my inbox is always open.
