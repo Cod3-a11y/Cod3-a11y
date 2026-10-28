@@ -54,7 +54,9 @@ A creative web project inspired by Shakespeare's tragic romance, featuring inter
   <img src="https://github-readme-stats.vercel.app/api?username=cod3-a11y&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for cod3-a11y">
 </p><p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cod3-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages for cod3-a11y">
-</p>---
+</p>
+
+---
 
 🤝 Connect with Me
 
